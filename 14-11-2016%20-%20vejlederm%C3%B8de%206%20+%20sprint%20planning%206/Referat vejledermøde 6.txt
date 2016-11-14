@@ -1,0 +1,27 @@
+Referat vejledermøde d. 14 november 2016 kl. 14.00
+
+Deltagere: Mikkel, Halfdan, Ahmad, Jacob, Toni. (Stefan fraværende, har ikke meldt afbud)
+
+Referant: Halfdan
+Mødeleder: Mikkel
+
+Retrospektiv:
+
+- Scrum har ikke fungeret så godt. For meget fravær i gruppen. 
+- Vi skal tilbage på sporet mht scrum. Ellers sejler det fra os.
+- Vi får dog stadig lavet noget individuelt, men der er ikke samling på gruppen.
+- Stefan har ikke været aktiv i noget tid, og der er ingen kommunikation fra/med ham.
+
+Næste sprint:
+- Vi skal have dokumentationen klar til review 2 inden fredag.
+- Ahmad og Toni tager sig af skelettet til winePrep, den skal laves færdig imorgen.
+- Jacob laver videre på processrapporten og dokumentation for sensorer.
+- Halfdan tager sig af dokumentation for PSoC-devkit kommunikation, og PSoC-PSoC kommunikation. 
+- Mikkel laver dokumentation for motorer.  
+
+Øvrige ting:
+
+- Process rapporten skal indeholde reflektioner omkring udviklingsprocessen. 
+- Vi skal ikke fortælle om hvad scrum er, men hvordan har vi brugt scrum, hvad er vores erfaring med scrum. 
+- Vi skal spørge værkstedet først om køb af motor.
+- Vi skal have 4 punkter til hver vejledermøde, husk at være forberedte til vejledermøder.
