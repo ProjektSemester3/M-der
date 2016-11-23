@@ -1,0 +1,18 @@
+Retrospektive for sprint 5
+
+What went well?
+- 
+
+What was bad?
+- Vi har intet overblik. 
+- Der er implementeret en masse små delelementer, men er er ingen samling op tingene. 
+- Sprintet er blevet forlænget flere gange.
+- Rammen er et stort hængeparti. 
+- 
+
+Changes:
+- Der skal være èn person som har ansvar for dokumentation. Som har styr på latex, ogo får sat tingene godt op(Jacob).
+- Vi skal have små sprints, så folk bliver holdt op på deres opgave. 
+- Ny leder struktur med mere topstyring. 
+- Der skal være konsekvenser for ikke at nå sine ting. Alt skal noteres og frem i lyset.
+- 
