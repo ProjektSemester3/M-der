@@ -1,0 +1,44 @@
+Referat review møde d. 30/11 2016
+
+Sted: shannon
+
+Fremmøde: Mikkel, Halfdan, Jacob, Ahmad
+
+Processrapporten:
+
+- Ingen tabeltekster i rapporten.
+- Stefan og Tonnis navne står stadig på rapporten.
+- Erfaringer omkring gruppedannelse
+- I arbejdsfordeling - Giver et indtryk af at èn person uddelegere arbejdet. 
+- Projektsadministation og ledelse - Igen giver et indtryk af stærk topstyring.
+- Det skal uddybes hvor mange møder der afholdes, og hvordan disse mødet foregår.
+- Gruppedynamik - gruppefølelse - Gav det problemer at software og hardware var opdelt? 
+- Holdinddeling - Forklar hvordan/hvorfor sammenholdet blev bedre efter et gruppemedlem faldt fra.
+- Effektivitet og struktur - Forklar hvordan notering af ikke nåede opgaver foregik. Lyder lidt hårdt. Hvorfor var det nødvendigt?  
+- Logbog - Hvorfor skal scrummaster tjekke op på om gruppemedlemmer har ført logbog? Dette er ikke scum .
+- Latex - Hvorfor anvende latex når ingen i gruppen kan finde ud af det?
+- Processrapporten er alt for lang. Det kan sagtens forkortes ned til 10 sider.
+
+
+Implementering:
+
+- Starten af kapitel 1. Hvilket værktøj har i brugt til at designe GUI. Kommer først nederst på siden.
+- Figur 1.1 og 1.2 - begge figurer siger "første skitse af brugergrænseflade".
+- PSoC side 20 - Hvordan er sensorer sat til PSoC. Det fremgår ikke af skitsen. 
+- Side 21 - Hvad laver den Tabel lige der? 
+- side 23 - Igen hvad laver tabellen der?
+- Der refereres til en video som ikke er vedhæftet.
+- Det virker som om der kun er 2 motorer i rapporten. Det er nogle ting som skal udbybes.
+- Meget forskellige uddybelses niveau. Noget er uddybet meget, andet er slet ikke uddybet.
+- Måske skulle det opdeles i software / hardware test.
+- Hvordan hænger hardware sammen. Hvor finder man bipolær motor styring i systemarkitekturen.
+- Testene skal tage interfases med i perspektiv. 
+- Hvad er koblingen mellem systemarkitekturen og implementering og test.
+- Software for GUI er ikke med i systemarkitektur. 
+- Spænding og clockmode skal testes ved SPI forbindelsen.
+- Motorer skal testes med forskellige belastning, så der ser fornuftigt ud. Der skal måles på spændinger.
+- Gå i dybden med det der fungerer. Babèr features væk fra produktet. 
+
+
+
+
